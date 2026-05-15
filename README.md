@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Cover Image.jpg" alt="Hotel Sign" width="100%">
+</p>
+
+
 # Projeto de Previsão de Cancelamento de Reservas Hoteleiras
 
 ## Índice
